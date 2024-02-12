@@ -2,9 +2,9 @@ import React from 'react'
 
 const Page2 = () => {
   return (
-    <div className="flex bg-slate-200 h-[600px] p-10">
-        <div className='p-20 '>
-        <div className='flex box w-full h-80 items-center justify-center'>
+    <div className="flex bg-white h-[600px] w-[1561.5px] p-10">
+        <div className='p-20 flex-col '>
+        <div className='flex box h-80 items-center justify-center'>
    <h1 className=' font-sans text-left left-10 w-[600px]'> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</h1>
    <h2 className='font-sans text-[200px] pl-40 '>B/RD</h2>
   </div>

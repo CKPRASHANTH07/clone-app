@@ -10,12 +10,12 @@ const BW = ({children}) => {
 const Navbar = () => {
   return (
     
-   <div className="flex justify-center fixed w-full h-15 top-0 left-0 bg-black rounded-b-3xl">
+   <div className="flex justify-center fixed w-full h-[90px] top-0 left-0 bg-black rounded-b-3xl">
   
     
  
  
- <div className='flex justify-center space-x-2 p-6'>
+ <div className='flex justify-center space-x-2 items-center'>
     <h1 className='text-2xl text-white font-sans mr-60 pr-10'>BASIC/DEPT</h1>
     <BW> WORK</BW>
     <BW>ABOUT</BW>

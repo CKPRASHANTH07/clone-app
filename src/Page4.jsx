@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page4 = () => {
   return (
-    <div className=" flex flex-col bg-slate-200 h-screen  font-sans">
+    <div className=" flex flex-col bg-slate-200 h-screen w-[1561.5px] font-sans">
       <h1 className='p-20'>FEATURED<br/>ENGAGEMENTS</h1>
       <div className='flex overflow-x-auto overscroll-auto overflow-hidden mb-10'>
     
