@@ -22,7 +22,6 @@ const Navbar = () => {
     <BW>NEWS</BW>
     <BW>THINKING</BW>
     <BW>PLEDGE</BW>
-    <BW>CAREERS</BW>
     <BW>CONTACT</BW>
 
     
